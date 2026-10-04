@@ -1,0 +1,4 @@
+interface:
+  display_name: "研究所備審資料生成"
+  short_description: "依真實背景撰寫研究所備審、自傳、求學動機與讀書計畫"
+  default_prompt: "使用 $graduate-application-writer 協助我撰寫研究所備審資料。"
